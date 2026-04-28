@@ -1,4 +1,4 @@
-const API_BASE = 'https://farmforge-backend-production.up.railway.app/api'
+const API_BASE = 'https://farmforge-backend-production.up.railway.app/api/users'
 
 const state = {
   user: null,
