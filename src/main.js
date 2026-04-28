@@ -1,4 +1,4 @@
-const API_BASE = 'http://localhost:8080/api'
+const API_BASE = 'https://farmforge-backend-production.up.railway.app/api'
 
 const state = {
   user: null,
